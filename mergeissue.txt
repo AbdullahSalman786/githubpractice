@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 this is the master branch
-=======
-this is the ui branch to make the merge issue
->>>>>>> ui
